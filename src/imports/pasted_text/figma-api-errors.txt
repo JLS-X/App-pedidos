@@ -1,0 +1,210 @@
+Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/metrics_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+await in (anonymous)
+y @ 3257-efa92324e61233bb.min.js.br:1364
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/histogram_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+await in (anonymous)
+A @ 3257-efa92324e61233bb.min.js.br:1364
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/metrics_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+y @ 3257-efa92324e61233bb.min.js.br:1364
+await in y
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:54 C: XHR for "https://www.figma.com/api/web_logger/metrics_batched" failed with status 0
+    at N (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1403:13827)
+    at async N.h [as crossOriginPost] (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1403:14845)
+    at async y (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1364:82052)
+    at async Promise.all (index 0)
+    at async https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:349:133058
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:54
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/histogram_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+A @ 3257-efa92324e61233bb.min.js.br:1364
+await in A
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/metrics_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+await in (anonymous)
+y @ 3257-efa92324e61233bb.min.js.br:1364
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/histogram_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+await in (anonymous)
+A @ 3257-efa92324e61233bb.min.js.br:1364
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/metrics_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+y @ 3257-efa92324e61233bb.min.js.br:1364
+await in y
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:54 C: XHR for "https://www.figma.com/api/web_logger/metrics_batched" failed with status 0
+    at N (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1403:13827)
+    at async N.h [as crossOriginPost] (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1403:14845)
+    at async y (https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:1364:82052)
+    at async Promise.all (index 0)
+    at async https://www.figma.com/webpack-artifacts/assets/3257-efa92324e61233bb.min.js.br:349:133058
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:54
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:63 
+            
+            
+           POST https://www.figma.com/api/web_logger/histogram_batched net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1403
+k @ 3257-efa92324e61233bb.min.js.br:1403
+N @ 3257-efa92324e61233bb.min.js.br:1403
+h @ 3257-efa92324e61233bb.min.js.br:1403
+A @ 3257-efa92324e61233bb.min.js.br:1364
+await in A
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:349Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:54 
+            
+            
+           POST https://www.figma.com/api/figment-proxy/monitor net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:54
+h @ vendor-16e166cdd80eed93.min.js.br:3
+_makeRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+r @ 3257-efa92324e61233bb.min.js.br:1231
+_makeRetryableRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1670
+u @ vendor-core-83c17265f2588e9e.min.js.br:54Understand this error
+vendor-core-83c17265f2588e9e.min.js.br:54 
+            
+            
+           POST https://www.figma.com/api/figment-proxy/monitor net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:54
+h @ vendor-16e166cdd80eed93.min.js.br:3
+_makeRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+r @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+u @ vendor-core-83c17265f2588e9e.min.js.br:54
+setTimeout
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+Promise.catch
+r @ 3257-efa92324e61233bb.min.js.br:1231
+_makeRetryableRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1670
+u @ vendor-core-83c17265f2588e9e.min.js.br:54Understand this error
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+ Total orders: 3
+ Today orders: []
+ Products: (4) [{…}, {…}, {…}, {…}]
+ Total revenue today: 0
+ Total stats: {totalOrders: 0, totalRevenue: 0, totalCompletedOrders: 0, totalDays: 0}
+vendor-core-83c17265f2588e9e.min.js.br:54 
+            
+            
+           POST https://www.figma.com/api/figment-proxy/monitor net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:54
+h @ vendor-16e166cdd80eed93.min.js.br:3
+_makeRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+r @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+u @ vendor-core-83c17265f2588e9e.min.js.br:54
+setTimeout
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+Promise.catch
+r @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+u @ vendor-core-83c17265f2588e9e.min.js.br:54
+setTimeout
+(anonymous) @ vendor-core-83c17265f2588e9e.min.js.br:63
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+Promise.catch
+r @ 3257-efa92324e61233bb.min.js.br:1231
+_makeRetryableRequest @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1231
+(anonymous) @ 3257-efa92324e61233bb.min.js.br:1670
+u @ vendor-core-83c17265f2588e9e.min.js.br:54Understand this error
+ Total orders: 3
+ Today orders: []
